@@ -1,24 +1,34 @@
-# projekt02
+<p align="center">
+<img height="300" width="300" src="https://i.ibb.co/C5pccTQ/Movie-Book.png" />
+</p>
 
-## Project setup
-```
-npm install
-```
+<p align="center">
+   <a href="https://ivengamingblog.netlify.app/">LIVE PAGE</a>
+</p>
+<p align="center">Web application with movie infos using Vue, Firebase and Rapid API.🖥️</p>
+<p align="center">📧Email: user@user.com Password: user123🔑</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Mobile responsive, minmalistic UI and  great UX 📱🖥️
 
-### Compiles and minifies for production
-```
-npm run build
-```
+For web preview of the app run:
+1. npm install
+2. npm run serve
+   
+For production run:
+3. npm run build
 
-### Lints and fixes files
-```
-npm run lint
-```
+<p align="center">
+<img src="https://i.ibb.co/VHDdJRS/1.png" />
+</p>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+<img src="https://i.ibb.co/5YqvB5m/2.png" />
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/VgzfZNP/3.png" />
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/YQT5M2h/4.png" />
+</p>
