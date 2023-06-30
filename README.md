@@ -8,6 +8,9 @@
 <p align="center">Web application with movie infos using Vue, Firebase and Rapid API.🖥️</p>
 <p align="center">📧Email: user@user.com Password: user123🔑</p>
 
+
+
+
 Mobile responsive, minmalistic UI and  great UX 📱🖥️
 
 For web preview of the app run:
