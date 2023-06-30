@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://ivengamingblog.netlify.app/">LIVE PAGE</a>
+   <a href="https://moviebookvue.netlify.app/register">LIVE PAGE</a>
 </p>
 <p align="center">Web application with movie infos using Vue, Firebase and Rapid API.🖥️</p>
 <p align="center">📧Email: user@user.com Password: user123🔑</p>
