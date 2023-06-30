@@ -15,13 +15,7 @@ import 'firebase/auth';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB99vp5Y2d4hbHO9mrEOx3UaLeiEisffWc",
-  authDomain: "moviebook-8cbe1.firebaseapp.com",
-  projectId: "moviebook-8cbe1",
-  storageBucket: "moviebook-8cbe1.appspot.com",
-  messagingSenderId: "704092418982",
-  appId: "1:704092418982:web:031d07ceeb3526fd4e9567",
-  measurementId: "G-LS5ZHZ76J9"
+
 };
 
 // Use this to initialize the firebase App
